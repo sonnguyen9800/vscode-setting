@@ -2,7 +2,7 @@
 [
     {
         "key": "Ctrl+R Ctrl+R",
-        "command": "editor.action.codeAction",
+        "command": "editor.action.rename",
         "args": {
           "kind": "refactor.extract.function"
         }
