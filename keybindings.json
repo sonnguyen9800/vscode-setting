@@ -1,0 +1,10 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "Ctrl+R Ctrl+R",
+        "command": "editor.action.codeAction",
+        "args": {
+          "kind": "refactor.extract.function"
+        }
+      }
+]
